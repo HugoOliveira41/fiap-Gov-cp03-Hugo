@@ -1,6 +1,9 @@
-# Governança e Melhores Práticas em Projetos de Sistemas
-Disciplina: Governança e Melhores Práticas em Projetos de Sistemas
+# Governança e Melhores Práticas em TI
+
+Disciplina: Governança e Melhores Práticas em TI
+
 Entrega: Modelo de Arquitetura do Projeto
+
 Repositório do projeto CP03 com base no modelo Archi
 
 Integrantes do Grupo
